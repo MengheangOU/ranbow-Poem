@@ -7,4 +7,5 @@ fourth blue,
 fifth yellow,
 sixth indigo,
 seventh is voilet.
+eighth color is purple
 ranbow ranbow how beautiful you are.
